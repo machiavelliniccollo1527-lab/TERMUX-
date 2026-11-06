@@ -1,4 +1,4 @@
-# TERMUX
+. # TERMUX
 # Sudo mode
 
 To confirm access to your account before you perform a protected high-impact action, GitHub.com prompts for authentication.
